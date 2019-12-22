@@ -1,4 +1,7 @@
 # epsonsimplecups
+
+Suitable for *Raspbian GNU/Linux 10 (buster)*
+
 A simple CUPS driver for the Epson TM-T20 POS printer.
 Epson provides a driver for this printer, but they only provide x86 and x64 linux binary builds instead of source. As a result, the driver can't be used on ARM systems, such as the Raspberry PI.
 
